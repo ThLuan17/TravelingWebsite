@@ -43,7 +43,6 @@ h1, h2, h3, h4, h5, h6 {
     text-decoration: none;
 }
 
-
 /* Bootstrap Menu Styles */
 .navbar {
     background-image: url(../images/18836975_1742898855739770_2923034198161573841_o.jpg);
@@ -148,7 +147,6 @@ h1, h2, h3, h4, h5, h6 {
 
 }
 
-
 .dropdown:hover .sub-menu {
     display: block;
 }
@@ -218,7 +216,6 @@ h1, h2, h3, h4, h5, h6 {
     text-decoration: none;
     background-color: #333;
 }
-
 
 .nav-item:hover .dropdown-menu,
 .nav-item:hover .mega-dropdown {
@@ -425,8 +422,6 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: bold;
     color: #333;
 }
-
-
 
 /*  */
 
@@ -832,7 +827,6 @@ h1, h2, h3, h4, h5, h6 {
     padding: 4rem 0;
     background-color: #f5f5f5;
 }
-
 
 /* Owl Carousel Navigation Styles */
 .owl-carousel .owl-nav,
